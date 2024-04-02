@@ -1,0 +1,4 @@
+- Primero he clonado el repositorio en mi vscode
+- He creado un archivo y he hecho un push
+- He creado una rama y he trabajado en ella
+- Por ultimo he creado un conflicto en el main
